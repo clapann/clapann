@@ -1,4 +1,4 @@
-# $ about?
+# $ about
 
 I am clap, a Javascript Developer from California.
 
